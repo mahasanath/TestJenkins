@@ -31,7 +31,12 @@ public class RemoveChar {
 		System.out.println(new_String);
 	}
 	public static void main(String [] args) throws IOException {
-		String a ="Hi! 11... how are you ????......helllo...;';''';7 haiiiii...... hiii .... , Tell me the answer: By when can you tell me?My email is Maha@gmail.com ! (Rem: This is a *secret*)";
+		String a ="helllo.....hiiii...///.,...Hi! 11... how are you ????......helllo...;';''';7 haiiiii...... hiii .... , Tell me the answer: By when can you tell me?My email is Maha@gmail.com ! (Rem: This is a *secret*)";
+		
+		System.out.println("helo...hi");
+		System.out.println("helo.222..hi");
+		System.out.println("helo..234.hi");
+		System.out.println("helo.kkk..hi");
 		symbolremovalSelected(a);
 	  		}
 }
